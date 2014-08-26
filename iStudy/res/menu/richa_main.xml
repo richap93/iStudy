@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" 
+    xmlns:iStudy="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="edu.cs.cs185.istudy.Newsfeed">
+
+    
+    
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:title="@string/action_settings"/>
+
+    <item 
+        android:id="@+id/add_note_richa"
+        android:title="Add note"
+        android:icon="@drawable/istudy3"
+        android:showAsAction="always"
+		android:orderInCategory="55" />
+    
+    <item
+        android:id="@+id/home_button"
+        android:title="Home"
+        android:icon="@drawable/home_button_normal"
+        android:showAsAction="always"/>
+    
+
+    
+</menu>

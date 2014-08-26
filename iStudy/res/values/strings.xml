@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">iStudy</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="hello_world">Hello world!</string>
+    <string name="record_audio">Record Audio</string>
+    <string name="take_photo">Take Photo</string>
+    <color name="Login_Background">#000000</color>
+    <string name="default_desc">iStudy</string>
+    <color name="White">#FFFFFF</color>
+    <string name="Username">Username</string>
+    <string name="Password">Password</string>
+    <string name="Sign_In">Sign In</string>
+    <color name="iStudy_Theme">#74DF00</color>
+    <string name="no_acct">Don\'t have an Account?</string>
+    <color name="link">#3A01DF</color>
+    <string name="signup_link">Get One</string>
+
+    <string name="no_notes">No Notes Yet</string>
+    <string name="addnote">Add Note</string>
+    <string name="menu_insert">Add Note</string>
+    <string name="menu_delete">Delete Note</string>
+    <string name="title">Title</string>
+    <string name="body">Body</string>
+    <string name="confirm">Confirm</string>
+    <string name="edit_note">Edit Note</string>
+    
+    <string name="takephoto">Take Photo</string>
+    <string name="recordaudio">Record Audio</string>
+    
+    <string name="timerInitialVal">00:00:00:00</string>
+    <string name="pauseButtonLabel">Pause</string>
+    <string name="startButtonLabel">Start</string>
+    
+    <string-array name="features">
+        <item>Profile</item>
+        <item>Newsfeed</item>
+        <item>Schedule</item>
+        <item></item>
+        <item>Unsorted Notes</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Quick Timer</item>
+        <item>Quick Notes</item>
+    </string-array>
+    <string-array name="notebook_names">
+        <item>CS Notebook</item>
+        <item>Physics Notebook</item>
+        <item>Databases Notebook</item>
+    </string-array>
+
+    <string name="openDrawer">Open Navigation Drawer</string>
+    <string name="closeDrawer">Close Navigation Drawer</string>
+    <string name="title_activity_newsfeed">Newsfeed</string>
+    
+    <string name="action_addsched">+</string>
+    <string name="action_addevent">Add Event</string>
+    <string name="str_btn_label"> Set</string> 
+    
+    
+</resources>

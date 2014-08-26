@@ -1,0 +1,36 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="edu.ucsb.cs.cs185.istudy.MainActivity" >
+
+    
+    
+    <item
+        android:id="@+id/take_photo"
+        android:orderInCategory="100"
+        android:title="@string/takephoto"
+        android:icon="@drawable/ic_action_camera"
+        app:showAsAction="always"/>
+    
+    <item
+        android:id="@+id/record_audio"
+        android:orderInCategory="100"
+        android:title="@string/recordaudio"
+        android:icon="@drawable/ic_action_mic"
+        app:showAsAction="always"/>
+    
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:title="@string/action_settings"/>
+    
+    <item
+        android:id="@+id/home_button"
+        android:title="Home"
+        android:icon="@drawable/home_button_normal"
+        android:showAsAction="always"
+        android:orderInCategory="1" />
+    
+
+</menu>
